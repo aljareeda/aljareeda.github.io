@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Agadir on Aljareeda</title>
+		<link>http://localhost:1313/aljareeda/tags/agadir/</link>
+		<description>Recent content in Agadir on Aljareeda</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 07 Sep 2026 09:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/aljareeda/tags/agadir/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Morocco&#39;s Child Labor Fell 80% Since 1999 — But 101,000 Kids Still Work, State Council Warns</title>
+				<link>http://localhost:1313/aljareeda/posts/7541-morocco-child-labor-high-speed-rail-network/</link>
+				<pubDate>Mon, 07 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7541-morocco-child-labor-high-speed-rail-network/</guid>
+				<description>A landmark advisory-council report on child labor, a new Marrakech-Agadir-Essaouira high-speed rail declaration, land seized to widen the Kenitra-Marrakech line, and two MPs stripped of their seats for political defection — from Morocco&amp;rsquo;s Official Gazette issue №7541.</description>
+			</item>
+	</channel>
+</rss>

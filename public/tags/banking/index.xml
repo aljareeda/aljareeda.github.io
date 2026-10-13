@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Banking on Aljareeda</title>
+		<link>http://localhost:1313/aljareeda/tags/banking/</link>
+		<description>Recent content in Banking on Aljareeda</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 17 Aug 2026 09:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/aljareeda/tags/banking/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Morocco Turns Its Port Authority Into a Company — and Locks In $1.2B a Year for Regions</title>
+				<link>http://localhost:1313/aljareeda/posts/7533-morocco-ports-corporation-regions-billions-bulletin/</link>
+				<pubDate>Mon, 17 Aug 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7533-morocco-ports-corporation-regions-billions-bulletin/</guid>
+				<description>Ports of Morocco SA is born, regions get a 12-billion-dirham annual floor, Bank Al-Maghrib gets bank-resolution powers, and a new real-estate law shakes up how land gets developed — all from this week&amp;rsquo;s Official Gazette.</description>
+			</item>
+			<item>
+				<title>Morocco Borrows $460M From World Bank for Jobs and Green Growth While Its Own Watchdog Says Only 0.5% of Companies Ever Use Job-Training Funds</title>
+				<link>http://localhost:1313/aljareeda/posts/7526-morocco-world-bank-loan-jobs-green-growth-training-reform/</link>
+				<pubDate>Thu, 16 Jul 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7526-morocco-world-bank-loan-jobs-green-growth-training-reform/</guid>
+				<description>A digest of Morocco&amp;rsquo;s Official Gazette, issue №7526: a $460M World Bank loan for jobs and green growth, a damning report on Morocco&amp;rsquo;s broken job-training system, a new financial-futures player, and an offshore gas deal.</description>
+			</item>
+	</channel>
+</rss>

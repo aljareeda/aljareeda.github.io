@@ -1,0 +1,107 @@
+baseURL = "https://otechai.github.io/aljareeda/"
+locale = "en-us"
+title = "Aljareeda"
+theme = "mainroad"
+enableRobotsTXT = true
+enableEmoji = true
+
+pagination.pagerSize = 10
+
+[minify]
+  disableXML = true
+
+# [outputs]
+#   # PaperMod's "JSON" output was for its Fuse.js search index (layouts/index.json.json).
+#   # Mainroad has no equivalent template — leaving JSON here breaks the build.
+#   home = ["HTML", "RSS"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[Author]
+  name = "Otmane Echaibi"
+  bio = "Aljareeda reads Morocco's Bulletin Officiel so you don't have to — translated, filtered, and written in plain English for Moroccan expats, everyday Moroccans, and the international public."
+  avatar = "img/aljareeda.png"
+
+[params]
+  description = "Morocco's official gazette, translated into news for Moroccan expats, everyday Moroccans, and the international public — investment, infrastructure, rights, accountability, and MRE policy, sourced straight from government paperwork."
+  opengraph = true
+  twitter_cards = true
+  readmore = true       # show "Read more" button on list pages instead of full post bleed
+  authorbox = false      # this is a publication, not a personal blog — skip the per-post bio box
+  pager = true
+  post_meta = ["date", "categories"]
+  mainSections = ["posts"]   # was ["post", "docs"] in the example — your content lives in content/posts
+  googleAnalytics = ""       # optional: paste tracking ID if/when you add GA
+
+  [params.logo]
+    image = "img/aljareeda.png"
+    title = "Aljareeda"
+    subtitle = "News from Morocco's Official Gazette — for the diaspora, everyday Moroccans, and the world"
+
+  [params.thumbnail]
+    visibility = ["list", "post"]   # show post cover images in both list and single views
+
+  [params.sidebar]
+    home = "right"
+    list = "right"
+    single = "right"
+    # "search" widget needs external wiring (see note above) — omitted until that's set up
+    widgets = ["recent", "categories", "taglist"]
+    # widgets = ["recent", "categories", "taglist", "social"]
+
+  [params.widgets]
+    recent_num = 5
+    categories_counter = true   # show post count per category — useful for a mre-watch/mega-projects/etc. archive
+    tags_counter = false
+
+    [params.widgets.social]
+      github = "otechai"
+      # Built-in social widget only supports named networks (facebook, twitter, instagram,
+      # linkedin, telegram, github, gitlab, bitbucket) — email and RSS need the "custom" list below
+      [[params.widgets.social.custom]]
+        title = "Email"
+        url = "mailto:otmanova@proton.me"
+      [[params.widgets.social.custom]]
+        title = "RSS"
+        url = "index.xml"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Digests"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 40
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = "monokai"
+  [markup.goldmark.renderer]
+    unsafe = true

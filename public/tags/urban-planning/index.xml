@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Urban-Planning on Aljareeda</title>
+		<link>http://localhost:1313/aljareeda/tags/urban-planning/</link>
+		<description>Recent content in Urban-Planning on Aljareeda</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 04 Oct 2026 09:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/aljareeda/tags/urban-planning/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Morocco Appoints Fatima Zahra Mansouri as Head of Government</title>
+				<link>http://localhost:1313/aljareeda/posts/7548-morocco-appoints-mansouri-head-of-government/</link>
+				<pubDate>Sun, 04 Oct 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7548-morocco-appoints-mansouri-head-of-government/</guid>
+				<description>Issue 7548 names Fatima Zahra Mansouri Head of Government, sets a 30-day online mortgage-release process for state housing aid, approves €585.53 million in foreign loans, and clears a new Tanger Med container terminal deal.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Land-Registration on Aljareeda</title>
+		<link>http://localhost:1313/aljareeda/tags/land-registration/</link>
+		<description>Recent content in Land-Registration on Aljareeda</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Oct 2026 09:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/aljareeda/tags/land-registration/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Morocco Extends Free Land Registration in 29 Zones</title>
+				<link>http://localhost:1313/aljareeda/posts/7547-morocco-extends-free-land-registration-29-zones/</link>
+				<pubDate>Thu, 01 Oct 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7547-morocco-extends-free-land-registration-29-zones/</guid>
+				<description>Morocco&amp;rsquo;s Official Gazette issue 7547 extends free land registration in 29 zones, lets governors cut local-debt enforcement costs, approves the Marchica lagoon plan, and clears a cancer-care software merger with binding conditions.</description>
+			</item>
+	</channel>
+</rss>
