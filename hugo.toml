@@ -55,16 +55,16 @@ pagination.pagerSize = 10
     categories_counter = true   # show post count per category — useful for a mre-watch/mega-projects/etc. archive
     tags_counter = false
 
-    [params.widgets.social]
-      github = "otechai"
-      # Built-in social widget only supports named networks (facebook, twitter, instagram,
-      # linkedin, telegram, github, gitlab, bitbucket) — email and RSS need the "custom" list below
-      [[params.widgets.social.custom]]
-        title = "Email"
-        url = "mailto:otmanova@proton.me"
-      [[params.widgets.social.custom]]
-        title = "RSS"
-        url = "index.xml"
+    # [params.widgets.social]
+    #   github = "otechai"
+    #   # Built-in social widget only supports named networks (facebook, twitter, instagram,
+    #   # linkedin, telegram, github, gitlab, bitbucket) — email and RSS need the "custom" list below
+    #   [[params.widgets.social.custom]]
+    #     title = "Email"
+    #     url = "mailto:otmanova@proton.me"
+    #   [[params.widgets.social.custom]]
+    #     title = "RSS"
+    #     url = "index.xml"
 
 [sitemap]
   changefreq = "weekly"
