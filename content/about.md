@@ -28,8 +28,5 @@ But buried in that paperwork is real news: new infrastructure projects, investme
 - **Mega-projects** — OCP, energy, rail, ports, water infrastructure
 - **Sourcing** — every story links back to the original decree/law for credibility
 
-### Get in touch
-- GitHub: [@otechai](https://github.com/otechai)
-- Email: [otmanova@proton.me](mailto:otmanova@proton.me)
 
 Nothing here is legal or financial advice — always confirm specifics with a lawyer or advisor before acting on anything reported here.
