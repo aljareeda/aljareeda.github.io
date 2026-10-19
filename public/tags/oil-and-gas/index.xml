@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Oil and Gas on Aljareeda</title>
+		<title>Oil-and-Gas on Aljareeda</title>
 		<link>http://localhost:1313/aljareeda/tags/oil-and-gas/</link>
-		<description>Recent content in Oil and Gas on Aljareeda</description>
+		<description>Recent content in Oil-and-Gas on Aljareeda</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 10 Sep 2026 09:00:00 +0100</lastBuildDate>
+			<lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/aljareeda/tags/oil-and-gas/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Morocco Opens 12 New Offshore Oil Blocks to Foreign Drillers</title>
-				<link>http://localhost:1313/aljareeda/posts/7510-morocco-offshore-oil-blocks-chariot-murphy/</link>
-				<pubDate>Thu, 10 Sep 2026 09:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/aljareeda/posts/7510-morocco-offshore-oil-blocks-chariot-murphy/</guid>
-				<description>Morocco&amp;rsquo;s Bulletin Officiel n°7510: 12 new offshore oil blocks for foreign drillers, butane gas margin changes, a telecom fiber-sharing deal, plus aquaculture licenses and medical diploma recognitions.</description>
-			</item>
-			<item>
 				<title>Morocco Borrows $460M From World Bank for Jobs and Green Growth While Its Own Watchdog Says Only 0.5% of Companies Ever Use Job-Training Funds</title>
 				<link>http://localhost:1313/aljareeda/posts/7526-morocco-world-bank-loan-jobs-green-growth-training-reform/</link>
-				<pubDate>Thu, 16 Jul 2026 09:00:00 +0100</pubDate>
+				<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aljareeda/posts/7526-morocco-world-bank-loan-jobs-green-growth-training-reform/</guid>
 				<description>A digest of Morocco&amp;rsquo;s Official Gazette, issue №7526: a $460M World Bank loan for jobs and green growth, a damning report on Morocco&amp;rsquo;s broken job-training system, a new financial-futures player, and an offshore gas deal.</description>
+			</item>
+			<item>
+				<title>Morocco Opens 12 New Offshore Oil Blocks to Foreign Drillers</title>
+				<link>http://localhost:1313/aljareeda/posts/7510-morocco-offshore-oil-blocks-chariot-murphy/</link>
+				<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7510-morocco-offshore-oil-blocks-chariot-murphy/</guid>
+				<description>Morocco&amp;rsquo;s Bulletin Officiel n°7510: 12 new offshore oil blocks for foreign drillers, butane gas margin changes, a telecom fiber-sharing deal, plus aquaculture licenses and medical diploma recognitions.</description>
 			</item>
 	</channel>
 </rss>

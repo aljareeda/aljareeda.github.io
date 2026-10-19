@@ -30,7 +30,7 @@ pagination.pagerSize = 10
   readmore = true       # show "Read more" button on list pages instead of full post bleed
   authorbox = false      # this is a publication, not a personal blog — skip the per-post bio box
   pager = true
-  post_meta = ["date", "categories"]
+  post_meta = ["date"]
   mainSections = ["posts"]   # was ["post", "docs"] in the example — your content lives in content/posts
   googleAnalytics = ""       # optional: paste tracking ID if/when you add GA
 
@@ -47,12 +47,11 @@ pagination.pagerSize = 10
     list = "right"
     single = "right"
     # "search" widget needs external wiring (see note above) — omitted until that's set up
-    widgets = ["recent", "categories"]
-    # widgets = ["recent", "categories", "taglist", "social"]
+    widgets = ["recent"]
+    # widgets = ["recent", "taglist", "social"]
 
   [params.widgets]
     recent_num = 5
-    categories_counter = true   # show post count per category — useful for a mre-watch/mega-projects/etc. archive
     tags_counter = false
 
     # [params.widgets.social]
@@ -78,11 +77,6 @@ pagination.pagerSize = 10
     url = "/posts/"
     weight = 10
   [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 20
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
@@ -94,7 +88,6 @@ pagination.pagerSize = 10
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
 
 [markup]
   [markup.highlight]
