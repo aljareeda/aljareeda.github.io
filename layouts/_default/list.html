@@ -10,7 +10,7 @@
 		{{ . }}
 	</div>
 	{{- end }}
-  {{- $paginator := .Paginate (sort .Pages "Slug" "desc") }}
+  {{- $paginator := .Paginate .Pages.ByDate.Reverse }}
   {{- range $paginator.Pages }}
 	 {{- .Render "summary" }}
   {{- end }}

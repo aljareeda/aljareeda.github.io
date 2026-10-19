@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>AI on Aljareeda</title>
+		<title>Ai on Aljareeda</title>
 		<link>http://localhost:1313/aljareeda/tags/ai/</link>
-		<description>Recent content in AI on Aljareeda</description>
+		<description>Recent content in Ai on Aljareeda</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 13 Aug 2026 09:00:00 +0100</lastBuildDate>
+			<lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0100</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/aljareeda/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Morocco Jails Election Deepfake Spreaders for Up to 5 Years</title>
+				<link>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</link>
+				<pubDate>Mon, 19 Oct 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</guid>
+				<description>Bulletin Officiel No. 7544 (17 September 2026): prison terms of 2–5 years for election deepfakes, online proxy voting for Moroccans abroad, stricter party-finance audits, a child-labour report and new statistics laws.</description>
+			</item>
 			<item>
 				<title>Morocco&#39;s Top Court Blocks Government From Picking the Judiciary&#39;s Own Senior Staff</title>
 				<link>http://localhost:1313/aljareeda/posts/7534-morocco-top-court-blocks-government-power-grab-judiciary/</link>

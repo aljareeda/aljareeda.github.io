@@ -1,6 +1,6 @@
 +++
 title = "Morocco Jails Election Deepfake Spreaders for Up to 5 Years"
-date = 2026-10-19T09:00:00+01:00
+date = 2026-09-17T09:00:00+01:00
 draft = false
 slug = "7544-morocco-jails-election-deepfake-spreaders-up-to-5-years"
 tags = ["morocco", "elections", "deepfakes", "ai", "mre", "diaspora", "proxy-voting", "voter-registration", "political-parties", "child-labour", "statistics", "aquaculture", "official-gazette"]
