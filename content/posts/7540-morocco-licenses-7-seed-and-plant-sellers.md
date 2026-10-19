@@ -1,6 +1,6 @@
 +++
 title = "Morocco Licenses 7 Seed and Plant Sellers, Then Makes Them Report Sales"
-date = 2026-09-03T09:00:00+01:00
+date = 2026-09-03
 draft = false
 slug = "7540-morocco-licenses-7-seed-and-plant-sellers"
 tags = ["Morocco", "Official Gazette", "Bulletin Officiel", "Agriculture", "Seeds", "Olive", "Argan", "Saffron", "Marchica", "Marina", "Food Safety"]

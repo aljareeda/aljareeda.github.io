@@ -1,6 +1,6 @@
 +++
 title = "Morocco Turns Its Port Authority Into a Company — and Locks In $1.2B a Year for Regions"
-date = 2026-08-17T09:00:00+01:00
+date = 2026-08-10
 draft = false
 slug = "7533-morocco-ports-corporation-regions-billions-bulletin"
 tags = ["Morocco", "Bulletin Officiel", "Ports", "Infrastructure", "Regionalization", "Banking", "Real Estate", "MRE", "World Cup 2030", "Economy"]

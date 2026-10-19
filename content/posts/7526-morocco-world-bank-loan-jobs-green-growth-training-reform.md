@@ -1,6 +1,6 @@
 +++
 title = "Morocco Borrows $460M From World Bank for Jobs and Green Growth While Its Own Watchdog Says Only 0.5% of Companies Ever Use Job-Training Funds"
-date = 2026-07-16T09:00:00+01:00
+date = 2026-07-16
 draft = false
 slug = "7526-morocco-world-bank-loan-jobs-green-growth-training-reform"
 tags = ["Morocco", "Bulletin Officiel", "World Bank", "Employment", "Labor Rights", "Vocational Training", "Banking", "Energy", "Oil and Gas", "CESE"]

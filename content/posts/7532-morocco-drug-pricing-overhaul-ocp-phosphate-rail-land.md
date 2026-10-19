@@ -1,6 +1,6 @@
 +++
 title = "Morocco Rewrites Drug Pricing Rules — and Clears Land for High-Speed Rail and OCP's New Phosphate Line"
-date = 2026-08-13T09:00:00+01:00
+date = 2026-08-06
 draft = false
 slug = "7532-morocco-drug-pricing-overhaul-ocp-phosphate-rail-land"
 tags = ["Morocco", "Bulletin Officiel", "Healthcare", "Pharmaceuticals", "OCP", "High-Speed Rail", "Infrastructure", "Water", "Land Rights", "Youth", "World Cup 2030", "Economy"]

@@ -1,6 +1,6 @@
 +++
 title = "Six Moroccan Lawmakers Quit in Ten Days — Constitutional Court Declares Seats Vacant"
-date = 2026-08-19T09:00:00+01:00
+date = 2026-07-23
 draft = false
 slug = "7528-six-moroccan-mps-resign-in-ten-days"
 tags = ["Morocco", "Bulletin Officiel", "Parliament", "MRE", "Medical Equivalency", "Aquaculture", "Marrakech", "Constitutional Court"]

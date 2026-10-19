@@ -1,6 +1,6 @@
 +++
 title = "Morocco's Child Labor Fell 80% Since 1999 — But 101,000 Kids Still Work, State Council Warns"
-date = 2026-09-07T09:00:00+01:00
+date = 2026-09-07
 draft = false
 slug = "7541-morocco-child-labor-high-speed-rail-network"
 tags = ["Morocco", "Bulletin Officiel", "child labor", "human rights", "high-speed rail", "TGV Al Boraq", "Constitutional Court", "CESE", "infrastructure", "Marrakech", "Agadir", "Essaouira"]

@@ -2,98 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/aljareeda/tags/ai/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/aljareeda/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/aquaculture/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/categories/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/child-labour/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/deepfakes/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/diaspora/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/elections/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/categories/french-edition/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/morocco/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/mre/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/official-gazette/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/political-parties/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/posts/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/proxy-voting/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/statistics/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/aljareeda/tags/voter-registration/</loc>
-    <lastmod>2026-10-19T09:00:00+01:00</lastmod>
+    <lastmod>2026-10-13T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -108,6 +18,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/aljareeda/tags/bulletin-officiel/</loc>
+    <lastmod>2026-10-13T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/categories/</loc>
     <lastmod>2026-10-13T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -142,7 +57,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/morocco/</loc>
+    <lastmod>2026-10-13T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/aljareeda/posts/7550-morocco-starts-mapping-16160-hectares-of-tribal-land/</loc>
+    <lastmod>2026-10-13T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/mre/</loc>
     <lastmod>2026-10-13T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -152,7 +77,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/official-gazette/</loc>
+    <lastmod>2026-10-13T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/aljareeda/tags/phosphate/</loc>
+    <lastmod>2026-10-13T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/posts/</loc>
     <lastmod>2026-10-13T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -168,6 +103,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/aljareeda/tags/soulaliyate/</loc>
+    <lastmod>2026-10-13T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/</loc>
     <lastmod>2026-10-13T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -317,7 +257,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/ai/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/aljareeda/tags/al-boraq/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/aquaculture/</loc>
     <lastmod>2026-09-17T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -332,6 +282,31 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/child-labour/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/deepfakes/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/diaspora/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/elections/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/categories/french-edition/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/aljareeda/tags/highways/</loc>
     <lastmod>2026-09-17T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,12 +317,37 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/political-parties/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/proxy-voting/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/aljareeda/tags/rabat/</loc>
     <lastmod>2026-09-17T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/statistics/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/aljareeda/tags/tangier/</loc>
+    <lastmod>2026-09-17T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/aljareeda/tags/voter-registration/</loc>
     <lastmod>2026-09-17T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

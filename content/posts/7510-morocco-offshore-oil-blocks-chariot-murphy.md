@@ -1,6 +1,6 @@
 +++
 title = "Morocco Opens 12 New Offshore Oil Blocks to Foreign Drillers"
-date = 2026-09-10T09:00:00+01:00
+date = 2026-05-21
 draft = false
 slug = "7510-morocco-offshore-oil-blocks-chariot-murphy"
 tags = ["oil-and-gas", "hydrocarbons", "energy", "digitalization", "aquaculture", "medical-equivalency", "insurance", "bulletin-officiel"]

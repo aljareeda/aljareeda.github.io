@@ -1,6 +1,6 @@
 +++
 title = "Morocco's Top Court Strikes Down Parts of Its New Adoul Law"
-date = 2026-09-29T09:00:00+01:00
+date = 2026-06-25
 draft = false
 slug = "7520-morocco-top-court-strikes-down-parts-of-its-new-adoul-law"
 tags = ["Morocco", "Official Gazette", "Bulletin Officiel", "Constitutional Court", "Adoul Law", "Disability Rights", "Justice", "Degree Equivalence", "Biodiversity", "Moroccan Diaspora"]

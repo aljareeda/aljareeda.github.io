@@ -1,6 +1,6 @@
 +++
 title = "Morocco Fast-Tracks Land Seizures for New Casablanca–Rabat Highway and High-Speed Rail Expansion"
-date = 2026-09-17T09:00:00+01:00
+date = 2026-09-17
 draft = false
 slug = "7544-morocco-casablanca-rabat-highway-rail-expansion"
 tags = ["Morocco", "Bulletin Officiel", "Infrastructure", "Highways", "High-Speed Rail", "Al Boraq", "Casablanca", "Rabat", "Tangier", "Aquaculture", "Bouregreg", "World Cup 2030"]

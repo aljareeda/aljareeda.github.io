@@ -1,6 +1,6 @@
 +++
 title = "Morocco Starts Mapping 16,160 Hectares of Tribal Land"
-date = 2026-10-13T09:00:00+01:00
+date = 2026-10-08
 draft = false
 slug = "7550-morocco-starts-mapping-16160-hectares-of-tribal-land"
 tags = ["morocco", "official-gazette", "bulletin-officiel", "collective-land", "soulaliyate", "mre", "ocp", "phosphate", "logistics", "safi", "insurance", "sanlam", "allianz", "infrastructure", "expropriation", "military-academies"]

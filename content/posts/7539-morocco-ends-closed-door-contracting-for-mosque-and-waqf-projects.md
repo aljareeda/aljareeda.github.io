@@ -1,6 +1,6 @@
 +++
 title = "Morocco Ends Closed-Door Contracting for Mosque and Waqf Projects"
-date = 2026-08-31T09:00:00+01:00
+date = 2026-08-31
 draft = false
 slug = "7539-morocco-ends-closed-door-contracting-for-mosque-and-waqf-projects"
 tags = ["waqf", "public procurement", "transparency", "anti-corruption", "religious endowments", "Ministry of Islamic Affairs", "mosques", "Bulletin Officiel"]

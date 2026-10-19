@@ -10,16 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0100</lastBuildDate>
+			<lastBuildDate>Tue, 13 Oct 2026 09:00:00 +0100</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/aljareeda/tags/official-gazette/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Morocco Jails Election Deepfake Spreaders for Up to 5 Years</title>
-				<link>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</link>
-				<pubDate>Mon, 19 Oct 2026 09:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</guid>
-				<description>Bulletin Officiel No. 7544 (17 September 2026): prison terms of 2–5 years for election deepfakes, online proxy voting for Moroccans abroad, stricter party-finance audits, a child-labour report and new statistics laws.</description>
-			</item>
 			<item>
 				<title>Morocco Starts Mapping 16,160 Hectares of Tribal Land</title>
 				<link>http://localhost:1313/aljareeda/posts/7550-morocco-starts-mapping-16160-hectares-of-tribal-land/</link>
@@ -47,6 +40,13 @@
 				<pubDate>Tue, 29 Sep 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/posts/7520-morocco-top-court-strikes-down-parts-of-its-new-adoul-law/</guid>
 				<description>Gazette issue 7520: the Constitutional Court rules on the adoul law, an online platform for debt-enforcement payments, 18 foreign degrees recognized, and a national biodiversity warning.</description>
+			</item>
+			<item>
+				<title>Morocco Jails Election Deepfake Spreaders for Up to 5 Years</title>
+				<link>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/posts/7544-morocco-jails-election-deepfake-spreaders-up-to-5-years/</guid>
+				<description>Bulletin Officiel No. 7544 (17 September 2026): prison terms of 2–5 years for election deepfakes, online proxy voting for Moroccans abroad, stricter party-finance audits, a child-labour report and new statistics laws.</description>
 			</item>
 			<item>
 				<title>Morocco Licenses 7 Seed and Plant Sellers, Then Makes Them Report Sales</title>

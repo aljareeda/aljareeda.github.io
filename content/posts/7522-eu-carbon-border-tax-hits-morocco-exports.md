@@ -1,6 +1,6 @@
 +++
 title = "EU's Carbon Border Tax Kicks In — Morocco's Fertilizer Exports First in the Crosshairs"
-date = 2026-08-18T09:00:00+01:00
+date = 2026-07-02
 draft = false
 slug = "7522-eu-carbon-border-tax-hits-morocco-exports"
 tags = ["carbon-border-tax", "MACF", "morocco-exports", "water-policy", "hydrocarbons", "biodiversity", "rural-transport", "MRE", "media-regulation", "bulletin-officiel"]

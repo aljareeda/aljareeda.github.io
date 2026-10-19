@@ -1,6 +1,6 @@
 +++
 title = "Morocco Extends Free Land Registration in 29 Zones"
-date = 2026-10-01T09:00:00+01:00
+date = 2026-09-28
 draft = false
 slug = "7547-morocco-extends-free-land-registration-29-zones"
 tags = ["morocco", "official-gazette", "bulletin-officiel", "land-registration", "mre", "moroccan-diaspora", "property", "marchica", "high-speed-rail", "competition-council", "wind-energy", "diploma-equivalence"]

@@ -1,6 +1,6 @@
 +++
 title = "Morocco Suspends Bread Wheat Import Duty as Global Grain Costs Bite"
-date = 2026-06-18T09:00:00+01:00
+date = 2026-06-18
 draft = false
 slug = "7518-morocco-suspends-bread-wheat-import-duty"
 tags = ["Bulletin Officiel", "Bread Prices", "Wheat Imports", "Water Stress", "Islamic Development Bank", "Diploma Equivalence", "Morocco Legislation"]

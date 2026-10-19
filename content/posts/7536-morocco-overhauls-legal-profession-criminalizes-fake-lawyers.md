@@ -1,6 +1,6 @@
 +++
 title = "Morocco Overhauls the Legal Profession, Makes Impersonating a Lawyer a Prison Offense"
-date = 2026-08-20T09:00:00+01:00
+date = 2026-08-20
 draft = false
 slug = "7536-morocco-overhauls-legal-profession-criminalizes-fake-lawyers"
 tags = ["Bulletin Officiel", "Lawyers Law", "Judicial Reform", "Access to Justice", "Settat", "Water Infrastructure", "Land Rights", "Morocco Legislation"]

@@ -1,6 +1,6 @@
 +++
 title = "Morocco Caps E-Scooters at 25 km/h and Hands Vehicle Paperwork to a New Safety Agency"
-date = 2026-08-24T09:00:00+01:00
+date = 2026-08-24
 draft = false
 slug = "7537-morocco-caps-e-scooters-at-25-kmh-and-hands-vehicle-paperwork-to-a-new-safety-agency"
 tags = ["road-safety", "e-scooters", "vehicle-registration", "water-infrastructure", "desalination", "dam", "port-safi", "tetouan", "el-jadida", "azilal", "tarfaya", "higher-education", "morocco", "bulletin-officiel"]

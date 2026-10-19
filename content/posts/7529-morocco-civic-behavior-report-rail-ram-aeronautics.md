@@ -1,6 +1,6 @@
 +++
 title = "Morocco's Own Watchdog Says Street Violence Is Up 29% — And Nobody's Punished for It"
-date = 2026-07-27T09:00:00+01:00
+date = 2026-07-27
 draft = false
 slug = "7529-morocco-civic-behavior-report-rail-ram-aeronautics"
 tags = ["Morocco", "Bulletin Officiel", "public safety", "road safety", "high-speed rail", "Royal Air Maroc", "aviation", "dams", "water", "wheat", "meat prices", "customs", "CESE"]

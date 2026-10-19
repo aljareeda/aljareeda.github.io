@@ -10,100 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0100</lastBuildDate>
+			<lastBuildDate>Tue, 13 Oct 2026 09:00:00 +0100</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/aljareeda/tags/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Ai</title>
-				<link>http://localhost:1313/aljareeda/tags/ai/</link>
-				<pubDate>Thu, 13 Aug 2026 09:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/ai/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Aquaculture</title>
-				<link>http://localhost:1313/aljareeda/tags/aquaculture/</link>
-				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/aquaculture/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Child-Labour</title>
-				<link>http://localhost:1313/aljareeda/tags/child-labour/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/child-labour/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Deepfakes</title>
-				<link>http://localhost:1313/aljareeda/tags/deepfakes/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/deepfakes/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Diaspora</title>
-				<link>http://localhost:1313/aljareeda/tags/diaspora/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/diaspora/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Elections</title>
-				<link>http://localhost:1313/aljareeda/tags/elections/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/elections/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Morocco</title>
-				<link>http://localhost:1313/aljareeda/tags/morocco/</link>
-				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/morocco/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>MRE</title>
-				<link>http://localhost:1313/aljareeda/tags/mre/</link>
-				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/mre/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Official Gazette</title>
-				<link>http://localhost:1313/aljareeda/tags/official-gazette/</link>
-				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/official-gazette/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Political-Parties</title>
-				<link>http://localhost:1313/aljareeda/tags/political-parties/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/political-parties/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Proxy-Voting</title>
-				<link>http://localhost:1313/aljareeda/tags/proxy-voting/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/proxy-voting/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Statistics</title>
-				<link>http://localhost:1313/aljareeda/tags/statistics/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/statistics/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Voter-Registration</title>
-				<link>http://localhost:1313/aljareeda/tags/voter-registration/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aljareeda/tags/voter-registration/</guid>
-				<description></description>
-			</item>
 			<item>
 				<title>Allianz</title>
 				<link>http://localhost:1313/aljareeda/tags/allianz/</link>
@@ -112,7 +21,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Bulletin Officiel</title>
+				<title>Bulletin-Officiel</title>
 				<link>http://localhost:1313/aljareeda/tags/bulletin-officiel/</link>
 				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/bulletin-officiel/</guid>
@@ -161,10 +70,31 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Morocco</title>
+				<link>http://localhost:1313/aljareeda/tags/morocco/</link>
+				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/morocco/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MRE</title>
+				<link>http://localhost:1313/aljareeda/tags/mre/</link>
+				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/mre/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Ocp</title>
 				<link>http://localhost:1313/aljareeda/tags/ocp/</link>
 				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/ocp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Official Gazette</title>
+				<link>http://localhost:1313/aljareeda/tags/official-gazette/</link>
+				<pubDate>Tue, 13 Oct 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/official-gazette/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -231,7 +161,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Moroccan Diaspora</title>
+				<title>Moroccan-Diaspora</title>
 				<link>http://localhost:1313/aljareeda/tags/moroccan-diaspora/</link>
 				<pubDate>Mon, 05 Oct 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/moroccan-diaspora/</guid>
@@ -371,10 +301,24 @@
 				<description></description>
 			</item>
 			<item>
+				<title>AI</title>
+				<link>http://localhost:1313/aljareeda/tags/ai/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/ai/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Al Boraq</title>
 				<link>http://localhost:1313/aljareeda/tags/al-boraq/</link>
 				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/al-boraq/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Aquaculture</title>
+				<link>http://localhost:1313/aljareeda/tags/aquaculture/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/aquaculture/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -392,10 +336,52 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Child-Labour</title>
+				<link>http://localhost:1313/aljareeda/tags/child-labour/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/child-labour/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Deepfakes</title>
+				<link>http://localhost:1313/aljareeda/tags/deepfakes/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/deepfakes/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Diaspora</title>
+				<link>http://localhost:1313/aljareeda/tags/diaspora/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/diaspora/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Elections</title>
+				<link>http://localhost:1313/aljareeda/tags/elections/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/elections/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Highways</title>
 				<link>http://localhost:1313/aljareeda/tags/highways/</link>
 				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/highways/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Political-Parties</title>
+				<link>http://localhost:1313/aljareeda/tags/political-parties/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/political-parties/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Proxy-Voting</title>
+				<link>http://localhost:1313/aljareeda/tags/proxy-voting/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/proxy-voting/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -406,10 +392,24 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Statistics</title>
+				<link>http://localhost:1313/aljareeda/tags/statistics/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/statistics/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Tangier</title>
 				<link>http://localhost:1313/aljareeda/tags/tangier/</link>
 				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/tangier/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Voter-Registration</title>
+				<link>http://localhost:1313/aljareeda/tags/voter-registration/</link>
+				<pubDate>Thu, 17 Sep 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/aljareeda/tags/voter-registration/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -448,7 +448,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Oil-and-Gas</title>
+				<title>Oil and Gas</title>
 				<link>http://localhost:1313/aljareeda/tags/oil-and-gas/</link>
 				<pubDate>Thu, 10 Sep 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/oil-and-gas/</guid>
@@ -637,7 +637,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Higher Education</title>
+				<title>Higher-Education</title>
 				<link>http://localhost:1313/aljareeda/tags/higher-education/</link>
 				<pubDate>Mon, 24 Aug 2026 09:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/aljareeda/tags/higher-education/</guid>

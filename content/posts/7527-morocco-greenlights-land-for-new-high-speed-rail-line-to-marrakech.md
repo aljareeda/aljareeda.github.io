@@ -1,6 +1,6 @@
 +++
 title = "Morocco Greenlights Land for New High-Speed Rail Line to Marrakech"
-date = 2026-07-20T09:00:00+01:00
+date = 2026-07-20
 draft = false
 slug = "7527-morocco-greenlights-land-for-new-high-speed-rail-line-to-marrakech"
 tags = ["Bulletin Officiel", "High-Speed Rail", "Kenitra-Marrakech", "Higher Education", "Land Expropriation", "Medical Devices", "Civil Society", "Collective Land", "MRE"]

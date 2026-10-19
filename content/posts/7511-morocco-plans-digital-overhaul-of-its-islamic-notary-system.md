@@ -1,6 +1,6 @@
 +++
 title = "Morocco Plans Digital Overhaul of Its Islamic Notary System"
-date = 2026-05-25T09:00:00+01:00
+date = 2026-05-25
 draft = false
 slug = "7511-morocco-plans-digital-overhaul-of-its-islamic-notary-system"
 tags = ["Adoul", "Notaries", "Justice Reform", "Family Law", "Digitalization", "Blockchain", "Wheat Prices", "Eid al-Adha", "Quarries", "Bulletin Officiel"]

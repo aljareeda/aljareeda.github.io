@@ -1,6 +1,6 @@
 +++
 title = "Morocco Is Embedding Judges in Its Embassies to Speed Up Diaspora Cases"
-date = 2026-10-05T09:00:00+01:00
+date = 2026-06-01
 draft = false
 slug = "7513-morocco-is-embedding-judges-in-its-embassies-to-speed-up-diaspora-cases"
 tags = ["Morocco", "Official Gazette", "Bulletin Officiel", "MRE", "Moroccan diaspora", "liaison judges", "judicial cooperation", "customs", "collective land", "drinking water", "dams", "expropriation"]

@@ -1,6 +1,6 @@
 +++
 title = "Morocco Appoints Fatima Zahra Mansouri as Head of Government"
-date = 2026-10-04T09:00:00+01:00
+date = 2026-10-01
 draft = false
 slug = "7548-morocco-appoints-mansouri-head-of-government"
 tags = ["morocco", "bulletin-officiel", "head-of-government", "housing", "world-bank", "tanger-med", "urban-planning", "anti-doping"]

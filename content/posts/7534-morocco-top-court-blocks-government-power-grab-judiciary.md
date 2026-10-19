@@ -1,6 +1,6 @@
 +++
 title = "Morocco's Top Court Blocks Government From Picking the Judiciary's Own Senior Staff"
-date = 2026-08-13T09:00:00+01:00
+date = 2026-08-13
 draft = false
 slug = "7534-morocco-top-court-blocks-government-power-grab-judiciary"
 tags = ["Bulletin Officiel", "Constitutional Court", "Judicial Independence", "Digital Morocco 2030", "AI", "Sidi Slimane", "Morocco Legislation"]
